@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(211, 199, 187);
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+p,address{
+    text-align: center;
+    font-size: x-large;
+}
+a{
+    font-size: 30px;
+    position: absolute;
+    right: 600px;
+}
+a:hover, a:active {
+    color: #000;
+}
+i{
+  position: absolute;
+  right: 70px;
+}
+
+
